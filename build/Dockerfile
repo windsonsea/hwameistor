@@ -1,1 +1,1 @@
-FROM golang:1.21.5-alpine
+FROM golang:1.26.3-alpine
